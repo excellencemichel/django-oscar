@@ -236,3 +236,7 @@ If you are interested in having an Oscar project built for you, or for
 development of an existing Oscar site then please get in touch via `info@oscarcommerce.com`_.
 
 .. _`info@oscarcommerce.com`: mailto:info@oscarcommerce.com
+
+Ce que j'ai ajouter
+______________
+C'est vraiment cool le projet
