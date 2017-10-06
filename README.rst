@@ -1,5 +1,6 @@
 Moi michel j'ai juste ajouté cette ligne
 Le projet en a l'air d'être cool
+Surtout la READNAME est convaincante
 .. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/logos/oscar.png
     :target: http://oscarcommerce.com
 
